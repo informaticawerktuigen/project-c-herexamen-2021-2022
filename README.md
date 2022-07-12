@@ -60,16 +60,20 @@ Je kan de inhoud van de repository ook nakijken op de website van GitHub zelf.
 Zo heb je altijd een back-up van je code.
 
 
-## Verdediging
+### Verdediging
 
-Gedurende de verdediging overloop je je code samen met een assistent.
-De beoordeling zal gebeuren op basis van de vooraf ingediende code en de verdediging hiervan.
-Er wordt in de huidige omstandigheden *niet* gevraagd om ter plekke nog een uitbreiding te schrijven.
+Op de verdediging is het uiterst belangrijk dat je goed kan uitleggen wat je code doet, en waarom je bepaalde keuzes hebt gemaakt.
+Vergeet zeker niet om als voorbereiding voor de verdediging je eigen code opnieuw te bekijken, zeker de ingewikkelde delen.
+Met code waarvan je niet kan uitleggen hoe ze werkt, kan je uiteraard weinig punten verdienen.
 
-De praktische informatie omtrent de online verdediging en de planning volgen later via Toledo.
+Er kan je tijdens de verdediging ook gevraagd worden beperkte aanpassingen te doen aan de code die je hebt geschreven.
+Op deze manier controleren we enerzijds of je de code zelf hebt geschreven, en anderzijds of je C voldoende begrijpt.
+Hierbij komt ook het gebruik van de debugger aan bod.
+
+De praktische informatie omtrent de verdediging en de planning volgen later via Toledo.
 
 De verdediging is een examenmoment, behandel dit ook zo.
-**Zorg ervoor dat je op tijd online bent op je toegekende moment.**
+**Zorg ervoor dat je op tijd aanwezig bent.**
 Indien je om eender welke reden niet op tijd op de verdediging kan geraken, neem dan zo snel mogelijk contact op met het assistententeam zodat er gezocht kan worden naar een oplossing.
 *Niet komen opdagen op je verdediging, zonder enige verwittiging, zal resulteren in een 0 op dit practicum*.
 Indien je door ziekte je verdediging niet kan halen, bezorg je je ombudspersoon een doktersattest.
@@ -107,16 +111,6 @@ Enkele tips:
 ### Correcte inzending
 
 Zorg ervoor dat je code correct en tijdig is ingediend via GitHub.
-
-
-### Verdediging
-Op de verdediging is het uiterst belangrijk dat je goed kan uitleggen wat je code doet, en waarom je bepaalde keuzes hebt gemaakt.
-Vergeet zeker niet om als voorbereiding voor de verdediging je eigen code opnieuw te bekijken, zeker de ingewikkelde delen.
-Met code waarvan je niet kan uitleggen hoe ze werkt, kan je uiteraard weinig punten verdienen.
-
-Er kan je tijdens de verdediging ook gevraagd worden beperkte aanpassingen te doen aan de code die je hebt geschreven.
-Op deze manier controleren we enerzijds of je de code zelf hebt geschreven, en anderzijds of je C voldoende begrijpt.
-Hierbij komt ook het gebruik van de debugger aan bod.
 
 
 ### Gebruik van informaticawerktuigen
